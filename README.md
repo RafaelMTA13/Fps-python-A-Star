@@ -35,6 +35,7 @@ pip install pygame numpy numba
 |   R               | Restart game              |
 |   T               | Jump to a specific wave   |
 |   P               | Force level up (debug)    |
+|   O               | Player Statistics         |
 |   Esc             | Quit game                 |
 |   Mouse Cursor    | Hidden during gameplay    |
 |   Power-ups       | Selected upon leveling up |
