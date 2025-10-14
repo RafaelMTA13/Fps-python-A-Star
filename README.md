@@ -29,15 +29,15 @@ pip install pygame numpy numba
 
 | Key / Action      | Description               |
 | ----------------- | ------------------------- |
-| **W / A / S / D** | Move player               |
-| **Mouse**         | Rotate camera             |
-| **Left Click**    | Shoot                     |
-| **R**             | Restart game              |
-| **T**             | Jump to a specific wave   |
-| **P**             | Force level up (debug)    |
-| **Esc**           | Quit game                 |
-| **Mouse Cursor**  | Hidden during gameplay    |
-| **Power-ups**     | Selected upon leveling up |
+|   W / A / S / D   | Move player               |
+|   Mouse           | Rotate camera             |
+|   Left Click      | Shoot                     |
+|   R               | Restart game              |
+|   T               | Jump to a specific wave   |
+|   P               | Force level up (debug)    |
+|   Esc             | Quit game                 |
+|   Mouse Cursor    | Hidden during gameplay    |
+|   Power-ups       | Selected upon leveling up |
 
 ⚙️ Technologies Used
 🐍 Python 3.10+
