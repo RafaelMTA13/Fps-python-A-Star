@@ -22,7 +22,7 @@ Fight endless waves of enemies, level up, collect power-ups, and survive as long
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/RafaelMTA13/fps-python-A-.git
+git clone https://github.com/RafaelMTA13/fps-python-A.git
 python -m venv venv
 pip install pygame numpy numba
 
